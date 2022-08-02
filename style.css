@@ -186,6 +186,7 @@ margin:10px;
 
 .projectContainer{
     display:flex;
+    flex-direction: column;
     width:100%;
 }
 
